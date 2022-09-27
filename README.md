@@ -29,7 +29,7 @@ To solve the problems above, We can transform variable that made by _randn_.
         x=sqrt(vx).*((k-km)/sqrt(kv))+mx; 
     ```
  * Third
-   > Then you can get variable that has exact value of mean and deviation we want.
+   > Then you can get variable set that has exact value of mean and deviation we want.
    
 <br/><br/>
 
