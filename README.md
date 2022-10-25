@@ -2,14 +2,14 @@
 Making Normal Gauss Random variable
 <br/><br/>
 
-## Bad point of using "randn" on matlab
-If you use _randn_ to making normal random variable, that will be half success.   
+## Problem of using "randn" on matlab
+If you use _randn_ to making normal random variable, that will be only half success.   
 Because _randn_ can't create a matrix with a mean of exact 0 and a standard deviation of exact 1.   
 Also, it is inconvenient to make variable that has mean and deviation that we want.   
 <br/><br/>
 
 ## Basic Idea
-To solve the problems above, We can transform variable that made by _randn_.   
+To solve the problems above, We can simply transform variable that made by _randn_.   
 <br/><br/>
 
 ## Discription
